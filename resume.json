@@ -20,14 +20,51 @@
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Deutsche Bank Global Technology, Inc.",
+    "position": "DevOps Engineer, Product Owner",
+    "website": "http://db.com",
+    "startDate": "2017-11-07",
+    "endDate": "2019-08-07",
+    "summary": "Train software delivery teams in Deutsche Bank on Agile, Scrum, User Story Writing and Metrics-Based Process Mapping. Product Owner for courses in Kanban, High Performance Teams and Agile Estimation and Planning. Coach teams, including my own, in Continuous Delivery, Scrum and Product Ownership.  Direct teams in DevOps concepts through automation and cross-team collaboration.",
     "highlights": [
-      "Started the company"
+      "Agile and DevOps trainer accredited by the bank",
+      "Using JIRA, Confluence, Tableau, Oracle and Python to measure release performance for Equities software application teams"
+    ]
+  },
+  {
+    "company": "Oracle Communications, Tekelec (acquired by Oracle, 2014)",
+    "position": "Senior Software Developer",
+    "website": "https://www.oracle.com/industries/communications/",
+    "startDate": "2007-04-07",
+    "endDate": "2017-03-07",
+    "summary": "Led a geo-diverse team of software developers and testers to produce an industry-leading communications object library and database for telecommunication providers world-wide. Guided the team to Agile and DevOps transformation. Maintained SDLC tools and services for the team. Created an outstanding testing platform built with virtual, physical and hybrid server solutions and network traffic simulation.",
+    "highlights": [
+      "Reviewed and approved functional specifications",
+      "Developed and executed comprehensive test plans"
+    ]
+  },
+  {
+    "company": "Symantec Corporation",
+    "position": "Senior Software Engineer",
+    "website": "https://www.symantec.com/",
+    "startDate": "2006-10-01",
+    "endDate": "2007-03-31",
+    "summary": "Release management and operations support for license management tool on Solaris and Linux. Managed the product build and release process as well as operations – lab, hardware, software and networking – for multiple teams developing legacy Veritas products including BackupExec and NetBackup.",
+    "highlights": [
+      "Built and released cross-platform application packages using Autoconf and gmake on the Linux and Solaris platforms.",
+      "Deployed lab server and network hardware; installed and configured operating systems and application middleware."
+    ]
+  },
+  {
+    "company": "Global Knowledge Training LLC",
+    "position": "System Administrator & Network Engineer",
+    "website": "https://www.globalknowledge.com/",
+    "startDate": "2005-07-01",
+    "endDate": "2006-09-30",
+    "summary": "Built virtualized learning environments for e-Learning division using VMWare ESX. Performed System Administration and Network Engineering. Installed, configured, and maintained Linux-based production services.",
+    "highlights": [
+      "Worked with instructors to design a virtual learning environment for students for Cisco network certifications.",
+      "Deployed solutions to provide server and networking hardware for student rental including persistent session management."
     ]
   }],
   "volunteer": [{

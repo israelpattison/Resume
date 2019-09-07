@@ -1,4 +1,3 @@
-{ "meta": { "theme": "kendall" } }
 {
   "basics": {
     "name": "Israel J. Pattison",
@@ -141,6 +140,9 @@
   "references": [{
     "name": "Jane Doe",
     "reference": "Reference..."
-  }]
-
+  }],
+  "meta": { 
+    "theme": "kendall" 
+    } 
+  }
 }

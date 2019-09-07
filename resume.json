@@ -70,16 +70,30 @@
       "Worked with instructors to design a virtual learning environment for students for Cisco network certifications.",
       "Deployed solutions to provide server and networking hardware for student rental including persistent session management."
     ]
+  },
+  {
+    "company": "IBM",
+    "position": "Staff Software Developer",
+    "website": "https://www.ibm.com/",
+    "startDate": "2001-01-01",
+    "endDate": "2005-06-30",
+    "summary": "Quality assurance for IBM WebSphere and Storage Networking products including Host Publisher, Commerce Suite and Business Integration – Connect. Developed and executed advanced automated tests and frameworks for requirements verification. Maintained SDLC tools and services for geo-diverse software development teams.",
+    "highlights": [
+      "Used SDLC tools such as IBM CMVC, IBM Rational products, and Lotus Domino to track and manage product testing.",
+      "Built and maintained testbeds using Windows NT, Linux, Solaris and AIX on Intel, POWER and SPARC-based systems.",
+      "Managed lab resources for SAN and NAS product development."
+    ]
   }],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
+    "organization": "Alliance Health Plan",
+    "position": "Board Committee Member",
+    "website": "https://www.alliancehealthplan.org/about-alliance/board/",
+    "startDate": "2009-07-01",
+    "endDate": "",
+    "summary": "The Alliance Consumer and Family Advisory Committee, or CFAC, is made up of consumers and family members who receive mental health, intellectual/developmental disabilities and substance use/addiction services.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Chair, Consumer and Family Advisory Committee, 2017-2018",
+      "Member, Quality Management Committee, 2018-present"
     ]
   }],
   "education": [{
@@ -131,10 +145,26 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Amateur Radio",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Emergency Communication",
+      "VHF/UHF Phone Contacts",
+      "High Speed Digital Networks"
+    ]
+  },
+  {
+    "name": "Disability Rights",
+    "keywords": [
+      "Guardianship",
+      "Medicaid and Medicare",
+      "Publicly-funded Behavioral Healthcare"
+    ]
+  },
+  {
+    "name": "History",
+    "keywords": [
+      "Geneaology",
+      "Visiting Historical Sites"
     ]
   }],
   "references": [{

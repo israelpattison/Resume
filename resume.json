@@ -87,8 +87,9 @@
     "gpa": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
-    ],
-    [{
+    ]
+  },
+  {
     "institution": "North Carolina State University",
     "area": "Computer Science",
     "studyType": "Certificate",
@@ -96,8 +97,9 @@
     "endDate": "2013-01-01",
     "courses": [
       "DB1101 - Basic SQL"
-    ],
-    [{
+    ]
+  },
+  {
     "institution": "Roanoke College",
     "area": "Psychology",
     "studyType": "Bachelor of Arts",

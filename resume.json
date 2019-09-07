@@ -1,3 +1,4 @@
+{ "meta": { "theme": "kendall" } }
 {
   "basics": {
     "name": "Israel J. Pattison",
@@ -17,6 +18,10 @@
       "network": "LinkedIn",
       "username": "israelpattison",
       "url": "https://linkedin.com/in/israelpattison"
+    },{
+      "network": "GitHub",
+      "username": "@israelpattison",
+      "url": "https://github.com/israelpattison"
     }]
   },
   "work": [{
@@ -82,19 +87,23 @@
     "institution": "Elon University Love School of Business",
     "area": "Management",
     "studyType": "Master of Science",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "startDate": "2018-08-15",
+    "endDate": "2022-05-01",
+    "gpa": "3.767",
     "courses": [
-      "DB1101 - Basic SQL"
+      "MScM 625 - Economic Policy",
+      "MScM 643 - Analytics I/ Quantitative Methods",
+      "MScM 623 - Organizational Behavior",
+      "MScM 715 - Managerial Accounting",
+      "MScM 645 - Project Management"
     ]
   },
   {
-    "institution": "North Carolina State University",
+    "institution": "North Carolina State University College of Engineering",
     "area": "Computer Science",
     "studyType": "Certificate",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
+    "startDate": "1997-08-15",
+    "endDate": "2001-05-01",
     "courses": [
       "DB1101 - Basic SQL"
     ]
